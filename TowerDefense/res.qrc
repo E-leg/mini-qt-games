@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Images/background.png</file>
+        <file>Images/buildTower_back.png</file>
+        <file>Images/bullet1.png</file>
+        <file>Images/bullet2.png</file>
+        <file>Images/bullet3.png</file>
+        <file>Images/death.png</file>
+        <file>Images/enemy1.png</file>
+        <file>Images/enemy2.png</file>
+        <file>Images/enemy3.png</file>
+        <file>Images/gold.png</file>
+        <file>Images/icon1.ico</file>
+        <file>Images/life.png</file>
+        <file>Images/restart.png</file>
+        <file>Images/road.png</file>
+        <file>Images/time.png</file>
+        <file>Images/tower1.png</file>
+        <file>Images/tower2.png</file>
+        <file>Images/tower3.png</file>
+    </qresource>
+    <qresource prefix="/snd">
+        <file>Sounds/BuildingTower.wav</file>
+        <file>Sounds/BuildTower.wav</file>
+        <file>Sounds/CantClick.wav</file>
+        <file>Sounds/Clock.wav</file>
+        <file>Sounds/enemyDamaged.wav</file>
+        <file>Sounds/enemyDie.wav</file>
+        <file>Sounds/gold.wav</file>
+        <file>Sounds/lifeLost.wav</file>
+        <file>Sounds/Music1.wav</file>
+        <file>Sounds/Music2.wav</file>
+        <file>Sounds/Music3.wav</file>
+        <file>Sounds/Music4.wav</file>
+        <file>Sounds/TowerClick.wav</file>
+        <file>Sounds/TowerShot.wav</file>
+    </qresource>
+</RCC>
