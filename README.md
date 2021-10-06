@@ -1,5 +1,5 @@
 # mini-qt-games
-Mini games wrote in C++ with Qt 5.15 on Windows 10.
+Mini games written in C++ with Qt 5.15 on Windows 10.
 
 Created for fun when learning C++.
 # HexBoard
